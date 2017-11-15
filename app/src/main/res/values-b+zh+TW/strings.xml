@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android導覽</string>
+    <string name="edit_message">輸入訊息</string>
+    <string name="button_send">送出</string>
+</resources>
